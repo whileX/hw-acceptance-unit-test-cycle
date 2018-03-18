@@ -20,7 +20,7 @@ ActiveRecord::Schema.define(version: 20180318020000) do
     t.datetime "release_date"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string "director"
+    t.string   "director"
   end
 
 end
